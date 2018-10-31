@@ -1,0 +1,6 @@
+rootProject.name = 'AMS'
+include 'core'
+include 'base'
+include 'persistence'
+include 'web'
+
